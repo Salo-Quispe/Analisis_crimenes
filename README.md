@@ -10,6 +10,8 @@
 
 ## Arquitectura del Data Lake 💬
 
+[![Arquitectura-analisis.png](https://i.postimg.cc/m2d95ffn/Arquitectura-analisis.png)](https://postimg.cc/gnZrx70y)
+
 > Esta imagen esta en el informe
 
 ## Temas de analisis 🔍🗂
