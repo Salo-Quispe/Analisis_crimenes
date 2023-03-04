@@ -18,5 +18,5 @@
 - Viedojuegos más vendidos en 2016 **.csv**
 - Homicidios en colombia años 2016-2019 **.xlsx**
 - Viajes maritimos deputados Islas Canarias **.json**
-- Pendiente ...
-- Pendiente ...
+- Elecciones precidenciales en Estados Unidos ***.csv*
+- Canchas de futbol en el mundo **.csv**
