@@ -6,7 +6,7 @@
 
 ## Enlace del video 🔗
 
-> [Youtube Video]
+> [Youtube Video](https://youtu.be/AQh2juElgqI)
 
 ## Arquitectura del Data Lake 💬
 
