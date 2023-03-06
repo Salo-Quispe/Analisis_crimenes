@@ -15,8 +15,8 @@
 > Esta imagen esta en el informe
 
 ## Temas de analisis 🔍🗂
-- Viedojuegos más vendidos en 2016 **.csv**
-- Homicidios en colombia años 2016-2019 **.xlsx**
-- Viajes maritimos deputados Islas Canarias **.json**
+- Videojuegos más vendidos en 2016 **.csv**
+- Homicidios en Colombia años 2016-2019 **.xlsx**
+- Viajes marítimos de diputados de las Islas Canarias **.json**
 - Elecciones precidenciales en Estados Unidos **.csv**
-- Canchas de futbol en el mundo **.csv**
+- Canchas de fútbol en el mundo **.csv**
