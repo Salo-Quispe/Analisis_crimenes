@@ -12,8 +12,6 @@
 
 [![Arquitectura-analisis.png](https://i.postimg.cc/m2d95ffn/Arquitectura-analisis.png)](https://postimg.cc/gnZrx70y)
 
-> Esta imagen esta en el informe
-
 ## Temas de analisis 🔍🗂
 - Videojuegos más vendidos en 2016 **.csv**
 - Homicidios en Colombia años 2016-2019 **.xlsx**
